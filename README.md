@@ -226,7 +226,7 @@
 </div>
 <div align="center">
     
-  ![snake gif](https://github.com/Abhista-11100/Abhista-11100/blob/output/github-snake-dark.svg)
+  ![snake gif](https://raw.githubusercontent.com/Abhista-111005/Abhista-111005/output/github-snake.svg)
 </div>
 <br/>
 	
