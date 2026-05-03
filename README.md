@@ -11,13 +11,15 @@
 ---
 
 ## 🚀 About Me
-🔭 Currently working on Full Stack Projects & Backend Development (Java + Spring Boot)
-🌱 Learning DSA, System Design & Cloud (Linux + DevOps basics)
-💬 Ask me about Java, OOP, SQL, Backend Development, and Trading Concepts
-⚡ Passionate about Building Scalable Systems
-📈 Exploring Strategy Development (Gold & BTC)
-🎯 Goal: Crack top tech roles + build strong income streams through tech & trading
-🎸 Guitar & 🎨 Painting Lover
+
+- 🔭 Currently working on Full Stack Projects & Backend Development (Java + Spring Boot)
+- 🌱 Learning DSA, System Design & Cloud (Linux + DevOps basics)
+- 💬 Ask me about Java, OOP, SQL, Backend Development, and Trading Concepts
+- ⚡ Passionate about Building Scalable Systems
+- 📈 Exploring Strategy Development (Gold & BTC)
+- 🎯 Goal: Crack top tech roles + build strong income streams through tech & trading
+- 🎸 Guitar & 🎨 Painting Lover
+  
 ---
 
 ## 🌐 Connect With Me
