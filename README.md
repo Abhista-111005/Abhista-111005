@@ -53,10 +53,10 @@
 
 <p align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu2608&repo=DeepTrace&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=saas-pos-system&theme=tokyonight" />
   </a>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu2608&repo=Your-Dump&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=FitnessMicroservice&theme=tokyonight" />
   </a>
 </p>
 
