@@ -43,10 +43,10 @@
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Priyanshu2608/MeetUp">
+  <a href="https://github.com/Abhista-111005/saas-pos-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu2608&repo=MeetUp&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Priyanshu2608/Rhythmix">
+  <a href="https://github.com/Abhista-111005/FitnessMicroservice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu2608&repo=Rhythmix&theme=tokyonight" />
   </a>
 </p>
