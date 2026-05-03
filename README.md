@@ -43,19 +43,10 @@
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href=" ">
-    <img src=" " />
-  </a>
-  <a href="">
-    <img src="" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
+  <a href="https://github.com/Abhista-111005/saas-pos-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=saas-pos-system&theme=tokyonight" />
   </a>
-  <a href="">
+  <a href="https://github.com/Abhista-111005/FitnessMicroservice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=FitnessMicroservice&theme=tokyonight" />
   </a>
 </p>
