@@ -51,15 +51,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Priyanshu2608/AI-Court">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu2608&repo=DeepTrace&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Priyanshu2608/Your-Dump">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu2608&repo=Your-Dump&theme=tokyonight" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">✨ Build • Learn • Ship • Repeat ✨</h3>
