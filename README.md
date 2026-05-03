@@ -44,10 +44,10 @@
 
 <p align="center">
   <a href="https://github.com/Abhista-111005/saas-pos-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=MeetUp&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=saas-pos-system&theme=tokyonight" />
   </a>
   <a href="https://github.com/Abhista-111005/FitnessMicroservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=Rhythmix&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhista-111005&repo=FitnessMicroservice&theme=tokyonight" />
   </a>
 </p>
 
